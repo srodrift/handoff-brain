@@ -1,0 +1,11 @@
+.env
+data/*.json
+data/*.tmp
+__pycache__/
+.calls/
+inbox/
+narration/*.mp3
+.DS_Store
+Dockerfile
+fly.toml
+.dockerignore

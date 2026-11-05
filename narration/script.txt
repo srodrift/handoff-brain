@@ -1,0 +1,17 @@
+Hi! This is Handoff Brain, built by Sunny, an onboarding consultant. Sunny spends most of the day on calls with customers, and on almost every call, there's a promise. I'll check with the carrier. I'll call your IT person. I'll get back to you Friday. Now imagine Sunny switches teams, or goes on leave. Someone else takes over those customers. They open Salesforce and find a couple of lines of notes. Everything that was actually said is buried in call recordings, and nobody has time to sit through hours of those. So promises slip, and the customer is the one who notices. That's the problem Handoff Brain solves.
+
+Quick note: everything you'll see is a realistic example. The clinics and people are made up. Maya is leaving on Friday, and Sam is taking over her five clinics. That's about two and a half hours of calls. Instead of Sam reading all of that, the brain reads every call for him.
+
+And this is where Sam starts. Not a pile of notes. Just what to do first, and why. Lakeview is at the top because Rosa is about to cancel her old provider, and texting still isn't working. If Sam misses that, they're gone.
+
+Open the account, and it's all on one page. The address and contact from Salesforce, and right next to it, what actually happened on the calls. Where they are, what's blocked, and every promise Maya made. The obvious question with AI is: is it making things up? So every quote is checked, word for word, against the real transcript. If Maya didn't say it, it doesn't get the check mark.
+
+Sam can just ask. For what happened, it only answers from the calls. But if he asks what to do, it gives real advice, and it labels that as its own suggestion. So he always knows what's a fact, and what's a recommendation.
+
+This one is the favorite. Every promise Maya made, including the two that already slipped. One click, and the follow-up is written.
+
+Some things never come up on a call, though. They're just in Maya's head. So before she leaves, the brain calls her. On a real phone line. It asks about the things her notes don't cover. Her answers go straight back into the brain. Triggerware is watching for new calls, so the accounts update on their own. Nobody is copying and pasting anything.
+
+And one more thing. If one clinic has a problem, that's a ticket. If three clinics have the same problem, that's something product needs to hear. So the brain pulls out those patterns, with the customers' own words as proof.
+
+Maya is just one example. This works for anyone who hands off customers: onboarding, customer success, sales, and support. And it doesn't replace Salesforce. It fills in what Salesforce never captures: what we actually said. Handoff Brain is built with Triggerware, AppStarter, Guava, ElevenLabs, and Groq. People move on all the time. Their promises shouldn't get lost when they do. Thanks for watching!
